@@ -14,4 +14,4 @@ The controls are accessable through the "Controller" module. Use the "Color Pick
 | #3 Botton     | Set Brightness based on light sensor       |        |
 | #4 Botton     | Turn off lights                            |        |
 
-The slide switch on the circuit board us used to toggle automatic brightness adjust. When in the on position the brightness of the leds will be adjusted based on the ambient light sensor reading.
+The slide switch on the circuit board is used to toggle automatic brightness adjust. When in the on position the brightness of the leds will be adjusted based on the ambient light sensor reading every three seconds.
