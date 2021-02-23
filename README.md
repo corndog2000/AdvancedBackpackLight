@@ -1,7 +1,7 @@
 # AdvancedBackpackLight
 
 Easily control the 10 Neopixels on the Adafruit Circuit Playground Bluefruit from the Adafruit Bluefruit mobile app.
-This board uses an nRF58240 MCU. Adafruit product page: https://learn.adafruit.com/adafruit-circuit-playground-bluefruit/overview
+This board uses an nRF58240 MCU. Adafruit product page: https://learn.adafruit.com/adafruit-circuit-playground-bluefruit
 
 The controls are accessable through the "Controller" module. Use the "Color Picker" submodule with Button #1 to set a custom color.
 
